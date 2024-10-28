@@ -153,7 +153,8 @@ REG.NO:212223100061
 ```
 
 ## OUTPUT:
-![Screenshot (346)](https://github.com/user-attachments/assets/8a95829e-cf01-4638-bbf3-8d7a3e669eaf)
+
+![Screenshot (347)](https://github.com/user-attachments/assets/0b9bf906-cfa2-44af-bf32-53c2f2c3a698)
 
 
 ## RESULT:
